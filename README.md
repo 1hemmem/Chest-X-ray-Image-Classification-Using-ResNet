@@ -4,5 +4,4 @@ This project implements a custom ResNet architecture for classifying chest X-ray
 
 This model succesfully achieved 0.88 accuracy on the test dataset.
 
-- Dataset:
-https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
+Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia/data
